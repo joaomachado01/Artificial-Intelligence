@@ -1,0 +1,7 @@
+# torch 2.7.1 comes from the base image (pytorch/pytorch:2.7.1-cuda12.8-cudnn9-runtime)
+accelerate==1.9.0
+numpy==2.3.2
+transformers==4.54.1
+gradio==5.38.2
+safetensors
+bitsandbytes==0.46.1
