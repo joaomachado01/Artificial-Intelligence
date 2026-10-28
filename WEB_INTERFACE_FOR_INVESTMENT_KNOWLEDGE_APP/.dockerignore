@@ -1,0 +1,5 @@
+investenv/
+__pycache__/
+*.pyc
+.env
+README.txt
